@@ -42,6 +42,11 @@ const services = [
     title: "Root Canal Therapy",
     description: "Painless laser-assisted root canals and infected pulp removal.\nImmediate tooth-saving procedures under local microscopic guidance."
   },
+   {
+    icon: Activity,
+    title: "Root Canal Therapy",
+    description: "Painless laser-assisted root canals and infected pulp removal.\nImmediate tooth-saving procedures under local microscopic guidance."
+  },
   {
     icon: ShieldCheck,
     title: "Pediatric Dentistry",

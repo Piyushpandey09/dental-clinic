@@ -26,6 +26,9 @@ const Home = () => {
     { title: "Smile Makeover", icon: "😊" },
     { title: "Painless Extractions", icon: "⚡" },
     { title: "Surgical Treatments", icon: "🦷"},
+      { title: " Makeover", icon: "😊" },
+    { title: " Extractions", icon: "⚡" },
+    { title: "Surgical Treatments", icon: "🦷"},
   ];
 
   // Infinite loop ke liye array ko duplicate kiya
